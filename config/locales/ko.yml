@@ -810,7 +810,7 @@ es:
       my_account: MI CUENTA
       my_orders: MIS ORDENES
       show_menu: Mostrar menú
-      show_search: Mostrar buscador
+      show_search: 검색
       show_user_menu: Mostrar menú de usuario
       sign_up: REGISTRO
     new: Nuevo
